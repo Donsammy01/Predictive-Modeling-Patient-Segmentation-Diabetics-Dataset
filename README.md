@@ -1,6 +1,3 @@
-Awesome! Here's a clean and professional **GitHub README** for your **Diabetics Dataset** project:
-
----
 
 # 🧠 Diabetics Dataset – Predictive Modeling & Patient Segmentation
 
